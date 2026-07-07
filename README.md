@@ -10,8 +10,8 @@ regulated enterprises adopt AI safely, observably, and at scale.
 ## What I'm building here
 - 🕸️ **[Ea-Agent-Mesh](repo link)** — experimental multi-agent orchestration
   architecture, prototyping governance patterns for agentic AI at
-  enterprise scale · [Live demo](demo link)
-- 📊 **[genai-observability-demo](repo link)** — reference implementation of
+  enterprise scale · [Live demo](coming soon)
+- [Demo Link](https://getamazednow.github.io/genai-observability-demo/)  — reference implementation of
   AI observability patterns (tracing, monitoring, control planes) for
   GenAI systems in production · [Live demo](demo link)
 
@@ -20,7 +20,7 @@ regulated enterprises adopt AI safely, observably, and at scale.
 operationalising Responsible AI governance in production environments.
 - [Part 1: AI Observability Is No Longer Optional](https://medium.com/@duane.gomes/part1-ai-observability-is-no-longer-optional-dc0c7f85378e)
 - [Part 2: Building the AI Control Plane](https://medium.com/@duane.gomes/part-2-building-the-ai-control-plane-68cd076d645c)
-- [Retail Cannot Afford Variable Truth](https://medium.com/@duane.gomes/retail-cannot-afford-variable-truth-5640206acfd0) *(related piece — decide if this slots into the series as Part 3 or stands alone)*
+- [Retail Cannot Afford Variable Truth](https://medium.com/@duane.gomes/retail-cannot-afford-variable-truth-5640206acfd0) 
 
 🌐 Full profile & career history: [duanegomes.com/interactiveprofile](https://duanegomes.com/interactiveprofile/)
 
