@@ -1,4 +1,4 @@
-# Hi, I'm Duane 👋
+# G'day, Welcome to my Profile page. I am Duane Gomes
 
 **Enterprise & Principal Architect | 33 years across Financial Services,
 Banking, Retail, Healthcare, Education & Utilities**
@@ -22,7 +22,7 @@ operationalising Responsible AI governance in production environments.
 - [Part 2: Building the AI Control Plane](https://medium.com/@duane.gomes/part-2-building-the-ai-control-plane-68cd076d645c)
 - [Retail Cannot Afford Variable Truth](https://medium.com/@duane.gomes/retail-cannot-afford-variable-truth-5640206acfd0) 
 
-🌐 Full profile & career history: [duanegomes.com/interactiveprofile](https://duanegomes.com/interactiveprofile/)
+Full profile & career history: [duanegomes.com/interactiveprofile](https://duanegomes.com/interactiveprofile/)
 
 ## Currently
 - Advising on Enterprise/Principal Architect mandates with an AI focus
