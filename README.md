@@ -11,7 +11,7 @@ regulated enterprises adopt AI safely, observably, and at scale.
 - 🕸️ **[Ea-Agent-Mesh]([repo link](https://getamazednow.github.io/Ea-Agent-Mesh/))** — experimental multi-agent orchestration
   architecture, prototyping governance patterns for agentic AI at
   enterprise scale · [Live demo](coming soon)
-- [Demo Link](https://getamazednow.github.io/genai-observability-demo/)  — reference implementation of
+- **[Gen AI Observability Demo](https://getamazednow.github.io/genai-observability-demo/)**  — reference implementation of
   AI observability patterns (tracing, monitoring, control planes) for
   GenAI systems in production · [Live demo](demo link)
 
