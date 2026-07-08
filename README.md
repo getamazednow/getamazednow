@@ -8,7 +8,7 @@ on **Agentic AI architecture** and **Responsible AI operations**: how
 regulated enterprises adopt AI safely, observably, and at scale.
 
 ## What I'm building here
-- 🕸️ **[Ea-Agent-Mesh](repo link)** — experimental multi-agent orchestration
+- 🕸️ **[Ea-Agent-Mesh]([repo link](https://getamazednow.github.io/Ea-Agent-Mesh/))** — experimental multi-agent orchestration
   architecture, prototyping governance patterns for agentic AI at
   enterprise scale · [Live demo](coming soon)
 - [Demo Link](https://getamazednow.github.io/genai-observability-demo/)  — reference implementation of
