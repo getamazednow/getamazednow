@@ -1,6 +1,6 @@
 # G'day, Welcome to my Profile page. I am Duane Gomes
 
-**Enterprise & Principal Architect | 33 years across Financial Services,
+**Enterprise & Principal Architect | Wealth of experience across Financial Services,
 Banking, Retail, Healthcare, Education & Utilities**
 
 I design and govern enterprise technology landscapes — with a current focus
@@ -33,4 +33,4 @@ Full profile & career history: [duanegomes.com/interactiveprofile](https://duane
 ## Currently
 - Advising on Enterprise/Principal Architect mandates with an AI focus
 - Running Communities of Practice on Agentic AI governance
-- Decades of experience, geographies: India · Australia · US · South-East Asia
+- Wealth of experience, geographies: India · Australia · US · South-East Asia
