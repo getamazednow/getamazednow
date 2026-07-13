@@ -8,16 +8,16 @@ on **Agentic AI architecture** and **Responsible AI operations**: how
 regulated enterprises adopt AI safely, observably, and at scale.
 
 ## What I'm building here
-- **[Ea-Agent-Mesh](https://getamazednow.github.io/Ea-Agent-Mesh/))** — experimental multi-agent orchestration
+- **[Ea-Agent-Mesh](https://getamazednow.github.io/Ea-Agent-Mesh/)** — experimental multi-agent orchestration
   architecture, prototyping governance patterns for agentic AI at
   enterprise scale.
 - **[Gen AI Observability Demo](https://getamazednow.github.io/genai-observability-demo/)**  — reference implementation of
   AI observability patterns (tracing, monitoring, control planes) for
   GenAI systems in production
-- **[ADSRA](https://getamazednow.github.io/ADSRA/))**  — reference implementation of
+- **[ADSRA](https://getamazednow.github.io/ADSRA/)**  — reference implementation of
   Digital sovereignty as an enterprise architecture domain — seven pillars, six-level maturity model,
   and measurable KRIs. For Australian regulated enterprises. Draft v0.1, open for peer review.
-- **[Claude Skills Library - coming soon] **  — reference implementation of
+- **[Claude Skills Library - coming soon] ()**  — reference implementation of
   Reusable AI agent skills accelerating Enterprise Architecture deliverables — capability mapping, diagramming, governance artefacts"
 
 ## What I'm writing
